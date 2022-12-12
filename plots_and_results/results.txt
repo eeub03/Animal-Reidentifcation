@@ -1,0 +1,79 @@
+Fish
+RGB
+Kmeans & 47.80 & 49.44
+HUE
+Kmeans & 40.37 & 37.37
+Threshold
+Kmeans & 18.84 & 2.39
+Sobel
+Kmeans & 20.57 & 5.10
+
+RGB
+MeanShift & 21.28 & 8.68
+HUE
+MeanShift & 18.09 & 4.17
+Threshold
+MeanShift & 16.16 & 0.00
+Sobel
+MeanShift & 17.15 & 5.38
+
+RGB
+AGG & 51.59 & 49.32
+HUE
+AGG & 38.60 & 39.12
+Threshold
+AGG & 18.92 & 2.15
+Sobel
+AGG & 19.19 & 4.13
+
+RGB
+GAU & 46.69 & 48.30
+HUE
+GAU & 39.17 & 37.31
+Threshold
+GAU & 18.50 & 1.93
+Sobel
+GAU & 20.96 & 5.67
+
+RGB
+DBScan & 46.24 & 46.23
+HUE
+DBScan & 45.35 & 42.77
+Threshold
+
+Pigeons
+RGB
+Kmeans & 15.87 & 10.34
+HUE
+Kmeans & 15.12 & 8.76
+Threshold
+Kmeans & 11.80 & 2.17
+Sobel
+Kmeans & 17.49 & 10.11
+
+RGB
+MeanShift & 16.82 & 7.15
+HUE
+MeanShift & 16.91 & 8.78
+Threshold
+MeanShift & 14.42 & 0.00
+Sobel
+MeanShift & 13.46 & 3.15
+
+RGB
+AGG & 16.12 & 11.03
+HUE
+AGG & 15.35 & 8.95
+Threshold
+AGG & 12.20 & 2.38
+Sobel
+AGG & 16.94 & 10.19
+
+RGB
+GAU & 15.75 & 10.16
+HUE
+GAU & 15.29 & 8.75
+Threshold
+GAU & 12.23 & 2.13
+Sobel
+GAU & 17.94 & 10.76

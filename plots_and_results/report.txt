@@ -1,0 +1,30 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 1 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'denoising_autoencoder.py'
+ outputting to 'da_upgraded.py'
+--------------------------------------------------------------------------------
+
+14:23: INFO: Renamed 'tf.truncated_normal' to 'tf.random.truncated_normal'
+42:42: INFO: Renamed 'tf.InteractiveSession' to 'tf.compat.v1.InteractiveSession'
+47:13: INFO: Renamed 'tf.variable_scope' to 'tf.compat.v1.variable_scope'
+49:12: INFO: Renamed 'tf.disable_eager_execution' to 'tf.compat.v1.disable_eager_execution'
+50:25: INFO: Renamed 'tf.placeholder' to 'tf.compat.v1.placeholder'
+51:32: INFO: Renamed 'tf.placeholder' to 'tf.compat.v1.placeholder'
+52:33: INFO: Renamed 'tf.placeholder' to 'tf.compat.v1.placeholder'
+60:16: INFO: Changing keep_prob arg of tf.nn.dropout to rate, and recomputing value.
+
+65:16: INFO: Changing keep_prob arg of tf.nn.dropout to rate, and recomputing value.
+
+70:20: INFO: Added keywords to args of function 'tf.reduce_sum'
+71:26: INFO: Renamed 'tf.train.AdamOptimizer' to 'tf.compat.v1.train.AdamOptimizer'
+72:8: INFO: Renamed 'tf.global_variables_initializer' to 'tf.compat.v1.global_variables_initializer'
+--------------------------------------------------------------------------------
+

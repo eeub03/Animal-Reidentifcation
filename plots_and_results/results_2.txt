@@ -1,0 +1,48 @@
+Kmeans (2, 2) & 9.44 & 8.78
+Kmeans (4, 4) & 9.22 & 8.90
+Kmeans (8, 8) & 8.44 & 9.70
+Kmeans default & 7.74 & 6.48
+Kmeans ror & 4.14 & 1.76
+Kmeans uniform & 4.82 & 2.30
+MeanShift (2, 2) & 4.81 & 0.00
+MeanShift (4, 4) & 4.81 & 0.00
+MeanShift (8, 8) & 4.81 & 0.00
+MeanShift default & 4.81 & 0.00
+MeanShift ror & 4.83 & 0.25
+MeanShift uniform & 4.80 & 0.04
+AGG (2, 2) & 9.16 & 9.09
+AGG (4, 4) & 9.14 & 9.77
+AGG (8, 8) & 8.59 & 10.18
+AGG default & 7.32 & 6.13
+AGG ror & 3.71 & 1.02
+AGG uniform & 4.74 & 2.25
+GAU (2, 2) & 8.20 & 7.20
+GAU (4, 4) & 8.27 & 8.59
+GAU (8, 8) & 9.39 & 10.00
+GAU default & 8.40 & 6.61
+GAU ror & 4.21 & 1.30
+GAU uniform & 4.84 & 2.80
+Kmeans (2, 2) & 9.90 & 6.90
+Kmeans (4, 4) & 9.29 & 6.27
+Kmeans (8, 8) & 10.96 & 7.68
+Kmeans default & 9.07 & 5.80
+Kmeans ror & 7.60 & 2.94
+Kmeans uniform & 8.29 & 4.81
+MeanShift (2, 2) & 5.39 & 0.00
+MeanShift (4, 4) & 7.93 & 3.59
+MeanShift (8, 8) & 5.39 & 0.00
+MeanShift default & 6.26 & 1.13
+MeanShift ror & 5.55 & 0.99
+MeanShift uniform & 5.41 & 2.51
+AGG (2, 2) & 10.14 & 7.24
+AGG (4, 4) & 11.28 & 7.39
+AGG (8, 8) & 10.59 & 7.61
+AGG default & 7.80 & 4.54
+AGG ror & 7.15 & 2.74
+AGG uniform & 7.87 & 4.07
+GAU (2, 2) & 10.55 & 7.88
+GAU (4, 4) & 8.90 & 6.16
+GAU (8, 8) & 10.61 & 6.99
+GAU default & 8.54 & 4.82
+GAU ror & 7.26 & 2.78
+GAU uniform & 7.26 & 4.07
